@@ -1,0 +1,80 @@
+.explore-container{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 1,338.3px;
+    padding: 140px, 0px, 140px, 0px;
+    gap: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.explore-text{
+    width: Hug (794px);
+    height: Hug (211px);
+    gap: 24px;
+    /* margin-bottom: 80px; */
+
+}
+.explore-text h1{
+    width: 894px;
+height: 154px;
+color:  white;
+font-family: poppins;
+font-size: 72px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: -2.096774101257324px;
+text-align: center;
+}
+#palyground{
+background: linear-gradient(0deg, #EBFF25, #EBFF25),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.explore-text p{
+    width: 659.09px;
+    height: 33px;
+    padding-top: 40px;
+    margin-left: 120px;
+    font-family: Neurial Grotesk;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #E7E7EA;
+    text-align: center;
+
+}
+.chart{
+   
+    background-image: url('../ExploreMarkets/Images/chart.png');
+    width: 887.77px;
+height: 445.79px;
+}
+.rectangle{
+    background-image: url('../ExploreMarkets//Images/Rectangle.png');
+    width: 1131px;
+    height: 303px;
+    margin-top: -160px;
+}
+#button{
+    width: 328px;
+    height: Fixed (48px);
+    padding: 18px 48px 18px 48px;
+    border-radius: 8px;
+    gap: 10px;
+    background: linear-gradient(85.85deg, #D4F938 23.09%, #32D875 108.69%);
+    /* box-shadow: 0px 0px 16px 0px #A8EF9CCC; */
+    font-family: Neurial Grotesk;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 250px;
+
+}

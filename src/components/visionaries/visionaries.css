@@ -1,0 +1,41 @@
+.visionary{
+    width: Fill (1,446px);
+height: Hug (876px);
+padding: 140px 0px 140px 0px;
+gap: 82px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.vision-text{
+    width: Hug (775px);
+    height: Hug (154px);
+    gap: 24px;
+}
+.vision-text h1{
+    width: 775px;
+height: 154px;
+font-family: poppins;
+font-size: 72px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: -2.096774101257324px;
+color:  #FFFFFF;
+}
+.vision-text span{
+    background: linear-gradient(0deg, #EBFF25, #EBFF25),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.vision{
+    width: Hug (1,017px);
+height: Hug (360px);
+}
+.vision img{
+    width: 323px;
+height: 360px;
+ margin-right:  30px;
+}

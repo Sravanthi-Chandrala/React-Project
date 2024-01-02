@@ -1,0 +1,217 @@
+.payLess-container{
+    width: 100%;
+    height: 934px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.box1{
+    width: 805px;
+    height: 134px;
+    margin-bottom: 100px;
+}
+.box1 h1{
+    width: 804px;
+    height: 77px;
+    font-family: poppins;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: -2.096774101257324px;
+    text-align: center;
+    color: #FFFFFF;
+    gap: 50px;
+}
+.yellow-text{
+    font-family: poppins; 
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: -2.096774101257324px;
+    background: linear-gradient(0deg, #EBFF25, #EBFF25),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.box1 p{
+    width: 793.67px;
+    height: 33px;
+    font-family: Neurial Grotesk;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #E7E7EA;
+    padding-top: 40px;
+}
+.box21{
+    width: 1,446px;
+    height: 438px;
+    padding: 0px, 150px, 0px, 150px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    width: 368.67px;
+    height: 438px;
+    background: linear-gradient(179.64deg, #DAF760 -1.86%, rgba(50, 216, 117, 0.96) 146.77%);
+    box-shadow: 0px 0px 40px 0px #E2FF6FCC; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px; 
+    padding-top: 30px;   
+    /* margin: 50px; */
+}
+.card1{
+    width: 368.67px;
+    height: 438px;
+    background: #19191D;
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+#icon1{
+    width: 146px;
+    height: 30px;
+    opacity: 0.5px;
+}
+.card1 .makersfee{
+    width: 83px;
+    height: 51px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.makersfee h1{
+    width: 83px;
+    height: 51px;
+    font-family: Neurial Grotesk;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.makersfee p{
+    width: 92px;
+    height: 24px;
+    opacity: 0.5px;
+    font-family: Neurial Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #E7E7EA;
+}
+.card1 .takerfee{
+    width: Hug (85px);
+    height: Hug (75px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.takerfee h1{
+    width: 63px;
+    height: 51px;
+    font-family: Neurial Grotesk;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.takerfee p{
+    width: 85px;
+    height: 24px;
+    opacity: 0.5px;
+    font-family: Neurial Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #FFFFFF;
+}
+#icon2{
+    width: 183.25px;
+    height: 44px;
+}
+.card .makerfee{
+    width: Hug (113px);
+    height: Hug (84px);
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.makerfee h1{
+    width: 83px;
+    height: 51px;
+    font-family: Neurial Grotesk;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #000000;
+}
+.makerfee p{
+    width: 113px;
+height: 29px;
+opacity: 0.5px;
+font-family: Neurial Grotesk;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: -1.6875px;
+color: #000000;
+
+}
+.card .takersfee{
+    width: Hug (105px);
+    height: Hug (84px);
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.takersfee h1{
+    width: 84px;
+    height: 51px;
+    font-family: Neurial Grotesk;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #000000;
+}
+.takersfee p{
+    width: 105px;
+    height: 29px;
+    opacity: 0.5px;
+    font-family: Neurial Grotesk;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: -1.6875px;
+    text-align: left;
+    color: #000000;
+}

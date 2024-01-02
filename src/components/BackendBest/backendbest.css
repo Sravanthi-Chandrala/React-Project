@@ -1,0 +1,153 @@
+.backend-container1{
+    width: 100%;
+    height: 1,265.92px;
+    padding: 140px 0px 140px 0px;
+    gap: 82px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.6);
+    
+}
+.backend-container1 .backend-text1{
+    width: Hug (641px);
+    height: Hug (77px);
+    gap: 24px;
+}
+.backend-text1 h3{
+    width: 641px;
+    height: 77px;
+    font-family: Neurial Grotesk;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: -2.096774101257324px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+}
+.icon-persons{
+    width: Fill (1,446px);
+    height: Hug (826.92px);
+    gap: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.iconss{
+    padding-top: 40px;
+    width: 754px;
+    height: 300.92px;
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+.iconss #img11{
+    margin-right: 20px;
+    width: 184.62px;
+    height: 40px;
+}
+.iconss #img22{
+    width: 124.24px;
+    height: 100px;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+.iconss #img33{
+    width: 108.22px;
+    height: 64px;
+    margin-top: -15px;
+    margin-right: 20px;
+}
+.iconss #img44{
+    width: 182.02px;
+    height: 64px;
+    margin-top: -15px;
+}
+.iconss #img55{
+    width: 120px;
+    height: 120.92px;
+    margin-top: 25px;
+    padding: 5px 10px 5px 5px;
+
+}
+.iconss #img66{
+    width: 236px;
+    height: 24px;
+    margin-top: 60px;
+    
+}
+.iconss #img77{
+    width: 219.7px;
+    height: 40px;
+    margin-top: 60px;
+
+}
+#three-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-left: 30px;
+}
+
+.icon-persons .persons{
+    width: 1009px;
+    height: Hug (446px);
+    gap: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.persons .pers{
+    width: Hug (185px);
+    height: Hug (205px);
+    gap: 50px;
+
+}
+.pers h3{
+
+    font-family: Neurial Grotesk;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: -10px;
+    padding-top: 10px;
+}
+.pers #aditya{
+    margin-top: 25px;
+}
+.pers #sajid{
+    margin-top: 35px;
+}
+.pers #arjun{
+    margin-top: 35px;
+}
+.pers #sandeep{
+    margin-top: 35px;
+}
+.pers .name{
+    width: 184px;
+    height: 47px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+}
+.pers p{
+    color: #A9A9A9;
+}
+

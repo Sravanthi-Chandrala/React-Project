@@ -1,0 +1,98 @@
+.earnmoney{
+    width: Fill (1,446px);
+height: Hug (1,217.77px);
+padding: 140px 0px 140px 0px;
+gap: 82px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.earnmoney-caption{
+    width: Hug (877px);
+height: Hug (402.77px);
+gap: 40px;
+}
+.earnmoney-caption img{
+    width: 247.72px;
+height: 228.77px;
+}
+.money{
+    width: Hug (877px);
+height: Hug (134px);
+/* gap: 24px; */
+}
+.money h1{
+    width: 977px;
+height: 75px;
+font-family: poppins;
+font-size: 72px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: -2.096774101257324px;
+text-align: center;
+color: white;
+
+}
+.money span{
+    background: linear-gradient(0deg, #EBFF25, #EBFF25),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.money p{
+    width: 913px;
+height: 33px;
+padding: 20px 0px 0px 25px;
+color: #E7E7EA;
+font-family: Neurial Grotesk;
+font-size: 24px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.ways-to-earn{
+    width: Hug (999px);
+height: Hug (323px);
+gap: 15px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.ways-to-earn .ways{
+    width: 323px;
+height: 323px;
+background: #19191D;
+text-align: left;
+padding: 20px;
+}
+.ways img{
+    width: 103.69px;
+    height: 90.4px;
+    padding: 10px 0px 0px 30px;
+}
+.ways h4{
+    width: 239px;
+height: 80px;
+padding: 90px 0px 0px 26px;
+color: white;
+}
+.button{
+    width: Hug (286px);
+height: Fixed (48px);
+padding: 24px 48px 24px 48px;
+border-radius: 8px;
+gap: 10px;
+background: linear-gradient(85.85deg, #D4F938 23.09%, #32D875 108.69%);
+box-shadow: 0px 0px 16px 0px #A8EF9CCC;
+border: none;
+font-family: Neurial Grotesk;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}

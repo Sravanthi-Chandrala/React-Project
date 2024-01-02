@@ -1,0 +1,107 @@
+.derivatives-container{
+    /* margin-top: 150px; */
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 2,617.33px;
+    padding: 120px, 0px, 120px, 0px;
+    gap: 120px;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.derivative-text h1{
+    width: 936px;
+    height: 160px;
+    padding-top: 150px;
+    font-family: poppins;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: -0.021em;
+    text-align: center;
+    color: white;
+}
+.derivative-text #easy{
+    background: linear-gradient(0deg, #EBFF25, #EBFF25),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.derivatives-features{
+    width: 100%;
+    height: 2,097.33px;
+}
+.derivatives-features hr{
+   width: 1134px;
+    margin-left: 100px;
+border: 2px;
+opacity: 0.4px;
+border-bottom: 2px solid;
+border-image-source: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.25) 49.07%, rgba(255, 255, 255, 0) 100%);
+border-image-slice: 1;
+}
+.derivatives-features .trade-now {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 60px;
+}
+.trade-now .create-account{
+    width: Hug (384px);
+height: Hug (342px);
+gap: 10px;
+text-align: left;
+margin-right: 250px;
+margin-top: 170px;
+}
+#mobile1{
+    width: 645.78px;
+    height: 645.78px;
+    margin-left: 120px;
+}
+.create-account .profile{
+    width: 119.56px;
+height: 120px;
+border: 0.49px solid #33B568;
+}
+.create-account .account{
+    width: Hug (384px);
+    height: Hug (212px);
+    gap: 36px;
+}
+.account .account-text{
+    width: Hug (384px);
+    height: Hug (128px);
+    gap: 16px;
+} 
+.account-text h2{
+    width: 351px;
+    height: 48px;
+    font-family: Neurial Grotesk;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+.account-text p{
+    width: 384px;
+    height: 64px;
+    font-family: Neurial Grotesk;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A9A9A9;
+}
+.account button{
+    width: Fixed (216px);
+    height: Fixed (48px);
+    padding: 10px 48px 10px 48px;
+    border-radius: 8px;
+    gap: 10px;
+    background: linear-gradient(85.85deg, #D4F938 23.09%, #32D875 108.69%);
+    box-shadow: 0px 0px 16px 0px #A8EF9CCC;
+}
